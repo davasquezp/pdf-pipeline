@@ -1,0 +1,4 @@
+# Bash reads these inside Docker/Linux — CRLF breaks `source` and scripts
+*.sh text eol=lf
+*.command text eol=lf
+config.env text eol=lf
